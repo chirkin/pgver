@@ -1,0 +1,2 @@
+
+\ir myfunc.sql
